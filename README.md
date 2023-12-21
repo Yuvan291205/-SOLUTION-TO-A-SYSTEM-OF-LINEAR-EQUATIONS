@@ -23,7 +23,8 @@ print(result)
 ```
 
 ## Output:
-![output](solution.png)
+![output](https://github.com/Yuvan291205/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/138849170/b0bea6c6-7450-4aad-a620-b5bc8e7d5bf5)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
